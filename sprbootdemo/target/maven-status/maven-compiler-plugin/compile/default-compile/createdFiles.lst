@@ -1,0 +1,6 @@
+com\mph\sprbootdemo\service\SemployeeServiceImpl.class
+com\mph\sprbootdemo\entity\Semployee.class
+com\mph\sprbootdemo\repository\SemployeeRepository.class
+com\mph\sprbootdemo\service\SemployeeService.class
+com\mph\sprbootdemo\SprbootdemoApplication.class
+com\mph\sprbootdemo\controller\SemployeeController.class
